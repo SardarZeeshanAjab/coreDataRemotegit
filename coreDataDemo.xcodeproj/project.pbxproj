@@ -41,7 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				74FBB4642077A3A700EFA134 /* coreDataDemo */,
-				74FBB4632077A3A700EFA134 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,11 +50,13 @@
 				74FBB4622077A3A700EFA134 /* coreDataDemo.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		74FBB4642077A3A700EFA134 /* coreDataDemo */ = {
 			isa = PBXGroup;
 			children = (
+				74FBB4632077A3A700EFA134 /* Products */,
 				74FBB4652077A3A700EFA134 /* AppDelegate.swift */,
 				74FBB4672077A3A700EFA134 /* ViewController.swift */,
 				74FBB4692077A3A700EFA134 /* Main.storyboard */,
