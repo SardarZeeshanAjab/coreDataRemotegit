@@ -76,7 +76,7 @@ extension ViewController: UITableViewDataSource {
             return cell
     }
 
-    func save(name: String) {
+    func save(name:String) {
         
         guard let appDelegate =
             UIApplication.shared.delegate as? AppDelegate else {
